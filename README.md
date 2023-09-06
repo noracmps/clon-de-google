@@ -28,6 +28,6 @@ Aprender a utilizar las etiquetas estandar de HTML5 y CS3.
 
 ## 4. Link a Demo
 
-Aquí puedes ver mi proyecto terminado: [Clonación de Google]([#](https://clon-de-google-three.vercel.app/)https://clon-de-google-three.vercel.app/)
+Aquí puedes ver mi proyecto terminado: [Clonación de Google](https://clon-de-google-three.vercel.app/)
 
 
