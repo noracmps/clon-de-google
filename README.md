@@ -20,9 +20,8 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 * **Footer**: Sección que incluye enlaces externosn al final de la página.
 
 Las tecnologías que usé son:
-
-<imagen src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<imagen src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 ## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas estandar de HTML5 y CS3.
